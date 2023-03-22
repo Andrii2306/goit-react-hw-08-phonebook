@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[680],{680:function(e,t,c){c.r(t),c.d(t,{default:function(){return r}});var n=c(184);function r(){return(0,n.jsx)("div",{className:"flex justify-center items-center m-36 ",children:(0,n.jsx)("h2",{className:"text-center text-xl text-blue-700 font-bold",children:"Hello to contacts Books!"})})}}}]);
+//# sourceMappingURL=680.1e375d85.chunk.js.map
